@@ -51,3 +51,5 @@ pyaudio
 pycryptodome
 chardet
 importlib_metadata
+requests>=2.31.0            
+Pillow>=10.1.0  
